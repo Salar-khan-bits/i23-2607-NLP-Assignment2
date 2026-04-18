@@ -1,0 +1,12 @@
+*.npy
+*.pt
+__pycache__/
+*.pyc
+.venv/
+data/*.conll
+raw.txt
+cleaned.txt
+lemmatized.txt
+metadata.json
+stemmed.txt
+tokenized.txt
